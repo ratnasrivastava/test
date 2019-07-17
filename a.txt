@@ -1,2 +1,2 @@
-branch A
-now in branch C
+
+now in branch B
